@@ -1,0 +1,2 @@
+Ubuntu font is licensed under the Ubuntu Font License.
+Available from: https://ubuntu.com/legal/font-licence
